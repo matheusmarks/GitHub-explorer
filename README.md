@@ -1,5 +1,5 @@
 <h1 align="center">GitHub Explorer</h1>
-<p align="center">A fast react application that searches any GitHub repository by using GitHub api.</p>
+<h4 align="center">A fast react application that searches any GitHub repository by using GitHub api.</h4>
 <p align="center">
    <img alt="top language" src="https://img.shields.io/github/languages/top/matheusmarks/Github-explorer.svg" />
   <img alt="repository size" src="https://img.shields.io/github/repo-size/matheusmarks/GitHub-explorer.svg" />
