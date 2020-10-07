@@ -1,19 +1,22 @@
-<h1 align="center"><img src="file://wsl%24/Ubuntu-18.04/home/matheus-marques/bootcamp/github-explorer/src/assets/logo.svg" /></h1>
-<p align="center">Pesquisa e busca de repositórios utilizando a api do GitHub.</p>
-
+<h1 align="center">GitHub Explorer<img</h1>
+<p align="center">A fast react application that searches any GitHub repository by using GitHub api.</p>
 <p align="center">
- <a href="#sobre">Sobre</a> • 
- <a href="#funcionamento">Funcionamento</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
+   <img src="https://img.shields.io/github/languages/top/matheusmarks/Github-explorer.svg" />
+  <img src="https://img.shields.io/github/repo-size/matheusmarks/GitHub-explorer.svg" />
 </p>
 
-<h2>Sobre</h2>
-<p>O GitHub Explorer é uma aplicação que realiza a busca de qualquer repositório do github, mostrando suas respectivas características como número de starts, forks, pull requests e  issues.</p>
-  
+<p align="center">
+ <a href="#sobre">About</a> • 
+ <a href="#funcionamento">How it works</a> • 
+ <a href="#tecnologias">Tecnologies</a> • 
+ <a href="#licenc-a">Licence</a> • 
+</p>
 
-<h2>Funcionamento<h2/>
+<h2>About</h2>
+<p>GitHub Explorer is a web application that searches any github repository, showing their respective stats like number of stars, forks, pull requests and generated issues.</p>
+  
+<h2>Funcionamento</h2>
+
 
 
 
