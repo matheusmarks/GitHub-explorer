@@ -1,4 +1,4 @@
-<h1 align="center">GitHub Explorer<img</h1>
+<h1 align="center">GitHub Explorer</h1>
 <p align="center">A fast react application that searches any GitHub repository by using GitHub api.</p>
 <p align="center">
    <img src="https://img.shields.io/github/languages/top/matheusmarks/Github-explorer.svg" />
