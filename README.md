@@ -1,4 +1,4 @@
-<h1 align="center">GitHub Explorer</h1>
+<h1 align="center"><img src="file://wsl%24/Ubuntu-18.04/home/matheus-marques/bootcamp/github-explorer/src/assets/logo.svg" /></h1>
 <p align="center">Pesquisa e busca de repositórios utilizando a api do GitHub.</p>
 
 <p align="center">
