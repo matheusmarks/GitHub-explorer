@@ -10,7 +10,7 @@
 </p>
 
 <h2>Sobre<h2/>
-<p>O GitHub Explorer é uma aplicação que realiza a busca de qualquer repositório do github, mostrando suas respectivas características como número de starts, forks, pull requests e  issues.<p/>
+<p>O GitHub Explorer é uma aplicação que realiza a busca de qualquer repositório do github, mostrando suas respectivas características como número de starts, forks, pull requests e  issues.</p>
   
 
 <h2>Funcionamento<h2/>
