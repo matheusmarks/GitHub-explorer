@@ -17,7 +17,7 @@
 <p>GitHub Explorer is a web application that searches any github repository, showing their respective stats, like number of stars, forks, pull requests and generated issues.</p>
   
 <h2>How it works</h2>
-
+<p><img src=""></p>
 
 
 
