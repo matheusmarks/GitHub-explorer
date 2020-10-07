@@ -49,7 +49,15 @@
       }
     ],
     "no-use-before-define": "off",
-    "prettier/prettier": "error"
+    "prettier/prettier": "error",
+    "camelcase": [
+      2,
+      {
+        "properties": "never"
+      }
+    ],
+    "@typescript-eslint/camelcase": "off",
+    "react-jsx-one-expresion-per-line": "off"
   },
   "settings": {
     "import/resolver": {
