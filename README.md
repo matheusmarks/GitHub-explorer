@@ -42,17 +42,19 @@ $ yarn start
 #or
 $ npm start
 ```
-<h2>Tecnologies</h2>
-<p>This app projected and made by <a href="https://rocketseat.com.br/">Rocketseat</a> and I implemented it during the bootcamp journey using:</p>
-<a href="https://reactjs.org/">React</a>
-<a href="https://www.styled-components.com/">Styled-Components</a>
-<a href="https://api.github.com/">GitHub-API</a>
-<a href="https://pt-br.reactjs.org/docs/hooks-overview.html">React Hooks</a>
-<a href="https://github.com/axios/axios">Axios</a>
-<a href="https://github.com/styled-components/polished">Polished</a>
-<a href="https://code.visualstudio.com/">VSCode</a>
-<a href="https://eslint.org/">ESLint</a>
-<a href="https://editorconfig.org/">EditorConfig</a>
+## Tecnologies
+
+This app projected and made by <a href="https://rocketseat.com.br/">Rocketseat</a> and I implemented it during the bootcamp journey using:
+
+-  [ReactJS](https://reactjs.org/)
+-  [styled-components](https://www.styled-components.com/)
+-  [GitHub-API](https://api.github.com/)
+-  [React Hooks](https://pt-br.reactjs.org/docs/hooks-overview.html)
+-  [Axios](https://github.com/axios/axios)
+-  [Polished](https://github.com/styled-components/polished)
+-  [VSCode](https://code.visualstudio.com/)
+-  [ESLint](https://eslint.org/)
+-  [EditorConfig](https://editorconfig.org/)
 
 
 
