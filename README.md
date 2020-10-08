@@ -44,7 +44,7 @@ $ npm start
 ```
 ## Tecnologies
 
-This app projected and made by <a href="https://rocketseat.com.br/">Rocketseat</a> and I implemented it during the bootcamp journey using:
+This app was projected and made by <a href="https://rocketseat.com.br/">Rocketseat</a> and I implemented it during the bootcamp journey using:
 
 -  [ReactJS](https://reactjs.org/)
 -  [styled-components](https://www.styled-components.com/)
